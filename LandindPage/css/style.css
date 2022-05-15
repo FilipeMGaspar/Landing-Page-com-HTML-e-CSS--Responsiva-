@@ -5,3 +5,9 @@
     --text-secondary: #000;
     --text-tertiary: #5d5d5d;
 }
+
+*{
+    font-family: "Montserrat";
+    margin: 0px;
+    padding: 0px;
+}
