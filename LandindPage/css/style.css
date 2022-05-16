@@ -29,3 +29,8 @@
 #disclaimer .event-date {
     color: var(--primary);
 }
+
+#disclaimer h2 {
+    font-size: 3em;
+    margin-bottom: 1em;
+}
