@@ -45,4 +45,9 @@
 
 #disclaimer p {
     font-size: 1.2em;
+    margin-bottom: 0.3em;
+}
+
+#disclaimer .event-date {
+    font-weight: bold;
 }
