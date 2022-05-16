@@ -27,5 +27,5 @@
 
 #disclaimer h2,
 #disclaimer .event-date {
-    
+    color: var(--primary);
 }
