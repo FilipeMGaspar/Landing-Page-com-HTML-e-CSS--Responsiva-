@@ -75,3 +75,11 @@
     margin-bottom: 0.3em;
     font-weight: bold;
 }
+
+.form-group input,
+.form-group select {
+    padding: 6px 8px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
