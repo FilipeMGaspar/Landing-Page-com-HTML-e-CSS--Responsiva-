@@ -51,3 +51,10 @@
 #disclaimer .event-date {
     font-weight: bold;
 }
+
+#subscription-form {
+    background-color: var(--secondary);
+    padding: 2em;
+    max-width: 22%;
+}
+
