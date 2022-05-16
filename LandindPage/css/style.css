@@ -24,3 +24,8 @@
     align-items: center;
     color: var(--text-color);
 }
+
+#disclaimer h2,
+#disclaimer .event-date {
+    
+}
