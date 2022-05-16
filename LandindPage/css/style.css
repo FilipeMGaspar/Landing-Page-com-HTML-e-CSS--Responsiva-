@@ -58,3 +58,12 @@
     max-width: 22%;
 }
 
+#subscription-form p {
+    font-size: 1.5em;
+    color: var(--text-secondary);
+    margin-bottom: 1em;
+}
+
+.form-group {
+    display: flex;
+}
