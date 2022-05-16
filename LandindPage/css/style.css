@@ -36,5 +36,8 @@
 }
 
 #disclaimer .about-event {
-
+    font-size: 2em;
+    text-transform: uppercase;
+    max-width: 350px;
+    font-weight: bold;
 }
