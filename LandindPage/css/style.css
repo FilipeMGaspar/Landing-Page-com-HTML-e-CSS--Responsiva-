@@ -13,6 +13,10 @@
     box-sizing: border-box;
 }
 
+body {
+    padding-bottom: 500px;
+}
+
 /* Event form ..: Formulário de Evento */
 #event-description {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) , url("../img/hrz-5.jpg");
@@ -102,4 +106,7 @@
 /* Benefits section */
 #key-benefits h2{
     background-color: var(--secondary);
+    text-align: center;
+    padding: 2em;
+    font-weight: 500;
 }
