@@ -98,3 +98,8 @@
 .btn:hover {
     opacity: 1;
 }
+
+/* Benefits section */
+#key-benefits h2{
+    background-color: var(--secondary);
+}
