@@ -155,4 +155,11 @@ body {
       background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) , url("../img/hrz-1.jpg");
       background-position: center;
       background-size: cover;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      color: var(--text-color);
+      margin-bottom: 3em;
   }
+
+  
