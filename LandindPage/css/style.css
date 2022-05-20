@@ -174,4 +174,10 @@ body {
   #address i {
       color: var(--primary);
       font-size: 4em;
+      margin-right: 0.5em;
+  }
+
+  #address-detail {
+      text-align: center;
+      font-size: 1.3em;
   }
