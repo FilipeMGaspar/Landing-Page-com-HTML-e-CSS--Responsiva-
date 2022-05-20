@@ -181,3 +181,10 @@ body {
       text-align: center;
       font-size: 1.3em;
   }
+
+  #about-location h3 {
+      color: var(--primary);
+      font-size: 2.5em;
+      margin-bottom: 1em;
+      text-transform: uppercase;
+  }
