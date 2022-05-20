@@ -170,3 +170,8 @@ body {
   #address {
       display: flex;
   }
+
+  #address i {
+      color: var(--primary);
+      font-size: 4em;
+  }
