@@ -162,4 +162,7 @@ body {
       margin-bottom: 3em;
   }
 
-  
+  #address, 
+  #about-location {
+    max-width: 30%;
+  }
