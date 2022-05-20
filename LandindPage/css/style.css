@@ -166,3 +166,7 @@ body {
   #about-location {
     max-width: 30%;
   }
+
+  #address {
+      display: flex;
+  }
