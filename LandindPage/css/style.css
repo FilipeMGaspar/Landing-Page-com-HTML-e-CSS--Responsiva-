@@ -206,3 +206,7 @@ body {
       gap: 5%;
       margin-bottom: 4em;
   }
+
+  .detail img{
+      width: 50%;
+  }
