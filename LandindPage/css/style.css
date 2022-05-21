@@ -257,3 +257,10 @@ body {
       font-size: 2em;
       font-weight: 500;
   }
+
+  #cta .btn{
+      width: 30%;
+      margin: 0 auto;
+      font-weight: 600;
+      font-size: 1.2em;
+  }
