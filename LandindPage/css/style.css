@@ -230,3 +230,7 @@ body {
   .detail-description ul {
       list-style-position: inside;
   }
+
+  .detail-description ul li {
+      margin-bottom: 0.4em;
+  }
