@@ -227,4 +227,6 @@ body {
       padding-left: 2em;
   }
 
-  
+  .detail-description ul {
+      list-style-position: inside;
+  }
