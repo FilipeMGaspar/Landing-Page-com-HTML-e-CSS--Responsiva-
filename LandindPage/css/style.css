@@ -270,3 +270,8 @@
       flex-direction: column;
       justify-content: center;
   }
+
+  #footer h3 {
+      font-size: 1.8em;
+      margin-bottom: 0.5em;
+  }
