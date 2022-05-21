@@ -19,7 +19,7 @@ body {
 
 /* Event form ..: Formulário de Evento */
 #event-description {
-    background: linear-gradient(rgba(31, 31, 31, 0.7), rgba(31, 31, 31, 0.7) , url("../img/hrz-5.jpg");
+    background: linear-gradient(rgba(31, 31, 31, 0.7), rgba(31, 31, 31, 0.7)) , url("../img/hrz-5.jpg");
     background-position: center;
     background-size: cover;
     height: 85vh;
