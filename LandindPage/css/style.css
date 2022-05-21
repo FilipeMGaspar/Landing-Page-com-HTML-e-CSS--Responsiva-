@@ -234,3 +234,7 @@ body {
   .detail-description ul li {
       margin-bottom: 0.4em;
   }
+
+  .detail-description ul li:last-child{
+      font-weight: bold;
+  }
