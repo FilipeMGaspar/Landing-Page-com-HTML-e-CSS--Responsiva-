@@ -260,3 +260,13 @@
       font-weight: 600;
       font-size: 1.2em;
   }
+
+  /* Footer */
+  #footer{
+      text-align: center;
+      color: var(--secondary);
+      height: 250px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+  }
