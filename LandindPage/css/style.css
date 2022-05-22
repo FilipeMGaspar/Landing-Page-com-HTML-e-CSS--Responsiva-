@@ -285,4 +285,11 @@
       font-weight: bold;
   }
 
-  
+  /* Mobile */
+  @media (max-width: 450px) {
+
+    /* Event Form */
+     #event-subsxription{
+         flex-direction: column;
+     }   
+  }
