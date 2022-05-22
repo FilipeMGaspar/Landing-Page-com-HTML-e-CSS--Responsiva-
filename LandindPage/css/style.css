@@ -378,4 +378,14 @@
      #detail-3 .detail-description {
          order: 1;
      }
+
+     /* CTA */
+     #cta {
+        text-align: center;
+     }
+
+     #cta .btn {
+         width: 80%;
+     }
+
   }
