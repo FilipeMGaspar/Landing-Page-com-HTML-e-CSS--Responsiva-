@@ -367,5 +367,7 @@
          display: none;
      }
 
-     
+     .detail-description{
+         padding: 0;
+     }
   }
