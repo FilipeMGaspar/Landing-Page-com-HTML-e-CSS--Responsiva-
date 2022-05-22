@@ -320,4 +320,12 @@
          margin-bottom: 2em;
      }
 
+    /* Event location */
+     #location {
+         flex-direction: column;
+         height: auto;
+         text-align: center;
+         padding: 2em 0;
+     }
+
   }
