@@ -289,7 +289,9 @@
   @media (max-width: 450px) {
 
     /* Event Form */
-     #event-subsxription{
+     #event-description{
          flex-direction: column;
-     }   
+         height: auto;
+     }
+        
   }
