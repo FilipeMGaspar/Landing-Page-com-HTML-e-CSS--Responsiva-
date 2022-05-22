@@ -351,6 +351,11 @@
          display: none;
      }
 
-     /*  */
+    /* Event details */
+     .detail {
+         flex-direction: column;
+         margin-bottom: 0.5em;
+         gap: 0;
+     }
 
   }
