@@ -293,5 +293,12 @@
          flex-direction: column;
          height: auto;
      }
-        
+       
+     #disclaimer {
+         padding: 2em;
+     }
+
+     #disclaimer h2 {
+         margin-bottom: 2em;
+     }
   }
