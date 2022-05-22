@@ -287,6 +287,9 @@
 
   /* Mobile */
   @media (max-width: 450px) {
+    .btn {
+        opacity: 1;
+    }
 
     /* Event Form */
      #event-description{
