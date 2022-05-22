@@ -303,7 +303,8 @@
      }
 
      #subscription-form {
-        
+        max-width: 70%;
+        margin-bottom: 2em;
      }
 
   }
