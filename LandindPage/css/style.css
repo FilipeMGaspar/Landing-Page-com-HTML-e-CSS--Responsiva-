@@ -360,5 +360,12 @@
 
      .detail img {
          width: 100%;
+         margin: 2em 0;
      }
+
+     #detail-1 img {
+         display: none;
+     }
+
+     
   }
